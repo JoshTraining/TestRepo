@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 # Vikram Singh Jadon
