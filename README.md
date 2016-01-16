@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ganesh
 
 <<<<<<< HEAD
@@ -11,3 +12,6 @@ Its exciting and interesting
 Hello
 =======
 >>>>>>> 0d7bbdef24965b0301cf5ee3437a02a9a9f482a0
+=======
+anuj verma
+>>>>>>> baf8fd9beaec3c5127a0ac09c52cc30c22a627fe
